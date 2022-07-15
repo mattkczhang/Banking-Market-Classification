@@ -1,4 +1,4 @@
-# Banking-Market-Classification
+# Banking Market Classification
 
 The Banking Market Classification project is a in-class group project at the University of Chicago Python for Analytics course in 2022 Spring. 
 
